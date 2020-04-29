@@ -7,6 +7,6 @@ assignees: andrewlunde
 
 ---
 
-- [ ] Do this
+ - [ ] Do this
  - [ ] Do that
  - [ ] Do other
